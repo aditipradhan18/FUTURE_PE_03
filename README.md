@@ -6,7 +6,7 @@
 
 ## Live Demo
 **Bot (EduGuide C Tutor):**  
-https://cdn.botpress.cloud/webchat/v3.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/11/29/16/20251129160750-D3RLE6UF.json
+https://cdn.botpress.cloud/webchat/v3.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/11/29/16/20251129160750-D3RLE6UF.json
 
 ---
 
