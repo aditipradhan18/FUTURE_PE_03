@@ -6,7 +6,7 @@
 
 ## Live Demo
 **Bot (EduGuide C Tutor):**  
-_Paste your Botpress shareable link here (e.g. https://your-bot-link)_
+https://cdn.botpress.cloud/webchat/v3.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/11/29/16/20251129160750-D3RLE6UF.json
 
 ---
 
@@ -21,7 +21,7 @@ _Paste your Botpress shareable link here (e.g. https://your-bot-link)_
 ---
 
 ## How to review / test the bot
-1. Open the **Live Demo** link above (Botpress webchat).  
+1. Open the **Live Demo** link above 
 2. Try sample prompts:
    - `Explain pointers in C with example.`
    - `Write a C program to count vowels in a string.`
@@ -44,18 +44,3 @@ _Paste your Botpress shareable link here (e.g. https://your-bot-link)_
 - Knowledge search was intentionally **disabled** so the bot follows the crafted prompt for consistent tutoring responses.  
 - For academic integrity: the bot focuses on explanation and education; it does not provide legal, medical, or diagnostic advice.
 
----
-
-## How to run locally (optional)
-This repo contains documentation only. The running chatbot is hosted on Botpress Cloud — use the **Live Demo** link to interact.
-
----
-
-## Credits
-**Author:** Aditi Pradhan  
-**Course / Task:** Future Interns — Task 3 (Chatbot Persona Development & Implementation)
-
----
-
-## Contact
-If you see any issues or need access to additional files/screenshots, open an issue or contact me at: *your-email@example.com*
